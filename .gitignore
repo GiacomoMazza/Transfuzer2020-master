@@ -13,11 +13,6 @@
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
-#Ignore all .meta file ADDED BY MO <------------------------
-*.meta
-#But not source file with postfix. which is everything but a folder ADDED BY MO <------------------------
-!*.*.meta
-
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 
