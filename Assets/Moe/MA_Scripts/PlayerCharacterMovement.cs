@@ -5,8 +5,8 @@ using UnityEngine;
 
 public class PlayerCharacterMovement : MonoBehaviour
 {
-
-    public Animator playerCharacterAnimator; //to access player character animator component
+    [SerializeField]
+    private Animator playerCharacterAnimator; //to access player character animator component
 
     // Start is called before the first frame update
     void Start()
@@ -29,5 +29,10 @@ public class PlayerCharacterMovement : MonoBehaviour
         playerCharacterAnimator.SetFloat("Magnitude", movement.magnitude);
 
         transform.position = transform.position + movement * Time.deltaTime; //change position of character (delta time for frame rate independence and smooth movement)
+
+        if (movement.x < 0)
+        {
+            gameObject.GetComponent<SpriteRenderer>().flipX = true;
+        }
     }
 }
