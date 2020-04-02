@@ -6,7 +6,7 @@ using UnityEngine;
 public class PlayerCharacterMovement : MonoBehaviour
 {
 
-    public Animator playerCharacterAnimator;
+    public Animator playerCharacterAnimator; //to access player character animator component
 
     // Start is called before the first frame update
     void Start()
@@ -22,9 +22,12 @@ public class PlayerCharacterMovement : MonoBehaviour
 
     private void movePlayerCharacter()
     {
-        playerCharacterAnimator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
+        Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"), 0.0f); 
+   
+        playerCharacterAnimator.SetFloat("Horizontal", movement.x);
+        playerCharacterAnimator.SetFloat("Vertical", movement.y);
+        playerCharacterAnimator.SetFloat("Magnitude", movement.magnitude);
 
-        Vector3 LR = new Vector3(Input.GetAxis("Horizontal"), 0.0f, 0.0f); //access left and right arrow keyes for horizontal movement -> CAN CHANGE TO WASD CONTROLS IN FUTURE
-        transform.position = transform.position + LR * Time.deltaTime; //change position of character (delta time for frame rate independence and smooth movement)
+        transform.position = transform.position + movement * Time.deltaTime; //change position of character (delta time for frame rate independence and smooth movement)
     }
 }
