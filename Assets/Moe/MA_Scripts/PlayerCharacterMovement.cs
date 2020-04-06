@@ -33,6 +33,10 @@ public class PlayerCharacterMovement : MonoBehaviour
         if (movement.x < 0)
         {
             gameObject.GetComponent<SpriteRenderer>().flipX = true;
+        } 
+        else if (movement.x > 0)
+        {
+            gameObject.GetComponent<SpriteRenderer>().flipX = false;
         }
     }
 }
