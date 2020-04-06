@@ -350,6 +350,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerCharacterAnimator: {fileID: 1721994074}
+  playerRigidBody: {fileID: 1721994075}
+  moveSpeed: 1
 --- !u!212 &1721994072
 SpriteRenderer:
   m_ObjectHideFlags: 0

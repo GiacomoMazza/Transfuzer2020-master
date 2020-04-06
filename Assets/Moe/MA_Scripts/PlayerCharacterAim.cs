@@ -7,6 +7,8 @@ public class PlayerCharacterAim : MonoBehaviour
 
     private Transform aimTransform;
 
+    private Camera mainCam;
+
     private void Awake()
     {
         aimTransform = transform.Find("Aim");
@@ -15,19 +17,22 @@ public class PlayerCharacterAim : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        mainCam = Camera.main;
     }
 
     // Update is called once per frame
     void Update()
     {
-        Vector3 mousePos = new Vector3(Input.mousePosition.x, Input.mousePosition.y, Input.mousePosition.z);
-        Vector3 mouseDirection = (mousePos - transform.position).normalized;
+        Vector3 mousePos = Input.mousePosition;
 
-        float aimAngle = Mathf.Atan2(mouseDirection.x, mouseDirection.y) * Mathf.Rad2Deg;
+        Vector3 aimPoint = Camera.main.WorldToScreenPoint(aimTransform.localPosition); //get pos of aim obj in world
 
-        aimTransform.eulerAngles = new Vector3(0, 0, aimAngle);
+        Vector2 offset = new Vector2(mousePos.x - aimPoint.x, mousePos.y - aimPoint.y); //position of player in relation to mouse
 
-        Debug.Log(aimAngle);
+        float angle = Mathf.Atan2(offset.y, offset.x) * Mathf.Rad2Deg; //conv from rads to degrees
+
+        aimTransform.rotation = Quaternion.Euler(0f, 0f, angle);
+
+        Debug.Log(angle);
     }
 }
