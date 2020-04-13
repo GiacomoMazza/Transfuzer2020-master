@@ -9,6 +9,9 @@ public class PlayerCharacterAim : MonoBehaviour
 
     private Camera mainCam;
 
+    public Transform firingOrigin; //where bullet is shot from
+    public GameObject projectileToFire;
+
     private void Awake()
     {
         aimTransform = transform.Find("Aim");
@@ -33,6 +36,11 @@ public class PlayerCharacterAim : MonoBehaviour
 
         aimTransform.rotation = Quaternion.Euler(0f, 0f, angle);
 
-        Debug.Log(angle);
+        if(Input.GetMouseButtonDown(0)) //left click
+        {
+            Instantiate(projectileToFire, firingOrigin.position, transform.GetChild(0).rotation);
+        }
+
+
     }
 }

@@ -470,6 +470,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cf0598c7aef2a94fbfb4b0ee70c8d61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  firingOrigin: {fileID: 646751740}
+  projectileToFire: {fileID: 574710976457102125, guid: 4ec72f6e8bba718458f19d183ee454ea,
+    type: 3}
 --- !u!1 &1897450159
 GameObject:
   m_ObjectHideFlags: 0
