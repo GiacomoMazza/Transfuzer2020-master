@@ -7,8 +7,8 @@ public class GameController : MonoBehaviour
 {
     [SerializeField] int playerLives = 3;
 
-    private void Awake() //using singleton pattern to make sure theres only one session at a time
-    {
+    //private void Awake() //using singleton pattern to make sure theres only one session at a time
+    //{
         //getting error with gamesession not being recognized even after including the "using" statement for level management in UnityEngine
         /*
         int numOfGameSessions = FindObjectsOfType<GameSession>().Length; //how many session of scene was loaded (tied to player death)
@@ -22,19 +22,19 @@ public class GameController : MonoBehaviour
         }
         */
 
-    }
+    //}
 
     // Start is called before the first frame update
-    void Start()
-    {
+    //void Start()
+    //{
         
-    }
+    //}
 
     // Update is called once per frame
-    void Update()
-    {
+    //void Update()
+    //{
         
-    }
+    //}
 
     public void processDeath() 
     {
@@ -51,7 +51,7 @@ public class GameController : MonoBehaviour
     private void decrementPlayerLife() //to be called from other classes on player death
     {
         playerLives--;
-        var currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         //SceneManager.LoadScene(currentSceneIndex);
     }
 
