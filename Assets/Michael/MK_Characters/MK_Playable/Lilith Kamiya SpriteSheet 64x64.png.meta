@@ -1,0 +1,2660 @@
+fileFormatVersion: 2
+guid: 181d44b777ccc45499a4ddaef70183f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 353282097562287194
+    second: Lilith Kamiya SpriteSheet 64x64_0
+  - first:
+      213: 1829803926647914003
+    second: Lilith Kamiya SpriteSheet 64x64_1
+  - first:
+      213: 4506846982281435513
+    second: Lilith Kamiya SpriteSheet 64x64_2
+  - first:
+      213: -8168797654796915787
+    second: Lilith Kamiya SpriteSheet 64x64_3
+  - first:
+      213: 1321024087558262022
+    second: Lilith Kamiya SpriteSheet 64x64_4
+  - first:
+      213: 4555958831064279484
+    second: Lilith Kamiya SpriteSheet 64x64_5
+  - first:
+      213: 3124833277764159587
+    second: Lilith Kamiya SpriteSheet 64x64_6
+  - first:
+      213: -7983912369645162226
+    second: Lilith Kamiya SpriteSheet 64x64_7
+  - first:
+      213: -7871370599920577936
+    second: Lilith Kamiya SpriteSheet 64x64_8
+  - first:
+      213: -4387153756990843696
+    second: Lilith Kamiya SpriteSheet 64x64_9
+  - first:
+      213: -5772293229170513036
+    second: Lilith Kamiya SpriteSheet 64x64_10
+  - first:
+      213: 3070825203815945557
+    second: Lilith Kamiya SpriteSheet 64x64_11
+  - first:
+      213: -3079140248717030042
+    second: Lilith Kamiya SpriteSheet 64x64_12
+  - first:
+      213: 458136485469377902
+    second: Lilith Kamiya SpriteSheet 64x64_13
+  - first:
+      213: -2949118260298584222
+    second: Lilith Kamiya SpriteSheet 64x64_14
+  - first:
+      213: 3192712477272321374
+    second: Lilith Kamiya SpriteSheet 64x64_15
+  - first:
+      213: 2494294941913184721
+    second: Lilith Kamiya SpriteSheet 64x64_16
+  - first:
+      213: 3005434989063720713
+    second: Lilith Kamiya SpriteSheet 64x64_17
+  - first:
+      213: -5932113234436409216
+    second: Lilith Kamiya SpriteSheet 64x64_18
+  - first:
+      213: -502951543118751188
+    second: Lilith Kamiya SpriteSheet 64x64_19
+  - first:
+      213: 7010182150333476793
+    second: Lilith Kamiya SpriteSheet 64x64_20
+  - first:
+      213: -5737891124811598221
+    second: Lilith Kamiya SpriteSheet 64x64_21
+  - first:
+      213: -4277923453240592357
+    second: Lilith Kamiya SpriteSheet 64x64_22
+  - first:
+      213: -4714003123065718806
+    second: Lilith Kamiya SpriteSheet 64x64_23
+  - first:
+      213: -1537635288153644542
+    second: Lilith Kamiya SpriteSheet 64x64_24
+  - first:
+      213: 6436155274925433492
+    second: Lilith Kamiya SpriteSheet 64x64_25
+  - first:
+      213: -183595028260636476
+    second: Lilith Kamiya SpriteSheet 64x64_26
+  - first:
+      213: 1303280964116966165
+    second: Lilith Kamiya SpriteSheet 64x64_27
+  - first:
+      213: 4538490225677655151
+    second: Lilith Kamiya SpriteSheet 64x64_28
+  - first:
+      213: -4460956058174076180
+    second: Lilith Kamiya SpriteSheet 64x64_29
+  - first:
+      213: 733270946475161468
+    second: Lilith Kamiya SpriteSheet 64x64_30
+  - first:
+      213: 9794172723521711
+    second: Lilith Kamiya SpriteSheet 64x64_31
+  - first:
+      213: -1686987124824053990
+    second: Lilith Kamiya SpriteSheet 64x64_32
+  - first:
+      213: -806991758362656367
+    second: Lilith Kamiya SpriteSheet 64x64_33
+  - first:
+      213: 6936686800582380108
+    second: Lilith Kamiya SpriteSheet 64x64_34
+  - first:
+      213: 1717544378514031165
+    second: Lilith Kamiya SpriteSheet 64x64_35
+  - first:
+      213: 6526606262283316793
+    second: Lilith Kamiya SpriteSheet 64x64_36
+  - first:
+      213: -2324220913093402293
+    second: Lilith Kamiya SpriteSheet 64x64_37
+  - first:
+      213: -2491421691294666436
+    second: Lilith Kamiya SpriteSheet 64x64_38
+  - first:
+      213: 591352031901223600
+    second: Lilith Kamiya SpriteSheet 64x64_39
+  - first:
+      213: -2274766622501537862
+    second: Lilith Kamiya SpriteSheet 64x64_40
+  - first:
+      213: 7805113235030735034
+    second: Lilith Kamiya SpriteSheet 64x64_41
+  - first:
+      213: -5761500551695867642
+    second: Lilith Kamiya SpriteSheet 64x64_42
+  - first:
+      213: -4904019715008522293
+    second: Lilith Kamiya SpriteSheet 64x64_43
+  - first:
+      213: -5571490200005809788
+    second: Lilith Kamiya SpriteSheet 64x64_44
+  - first:
+      213: 8634997673846278559
+    second: Lilith Kamiya SpriteSheet 64x64_45
+  - first:
+      213: -8205609510462440173
+    second: Lilith Kamiya SpriteSheet 64x64_46
+  - first:
+      213: 8577788621993457321
+    second: Lilith Kamiya SpriteSheet 64x64_47
+  - first:
+      213: -1866347803360852474
+    second: Lilith Kamiya SpriteSheet 64x64_48
+  - first:
+      213: 7779637536626084709
+    second: Lilith Kamiya SpriteSheet 64x64_49
+  - first:
+      213: -2301407185394114080
+    second: Lilith Kamiya SpriteSheet 64x64_50
+  - first:
+      213: 1961832843900292276
+    second: Lilith Kamiya SpriteSheet 64x64_51
+  - first:
+      213: 6477585747017495234
+    second: Lilith Kamiya SpriteSheet 64x64_52
+  - first:
+      213: -6569429781430848681
+    second: Lilith Kamiya SpriteSheet 64x64_53
+  - first:
+      213: 8308982724786197698
+    second: Lilith Kamiya SpriteSheet 64x64_54
+  - first:
+      213: 6273531085163956715
+    second: Lilith Kamiya SpriteSheet 64x64_55
+  - first:
+      213: 8087279153693468373
+    second: Lilith Kamiya SpriteSheet 64x64_56
+  - first:
+      213: 6387090791888203518
+    second: Lilith Kamiya SpriteSheet 64x64_57
+  - first:
+      213: 8417574456887847170
+    second: Lilith Kamiya SpriteSheet 64x64_58
+  - first:
+      213: 6183658871565178991
+    second: Lilith Kamiya SpriteSheet 64x64_59
+  - first:
+      213: 4102457251856613589
+    second: Lilith Kamiya SpriteSheet 64x64_60
+  - first:
+      213: 3516509141929061819
+    second: Lilith Kamiya SpriteSheet 64x64_61
+  - first:
+      213: -2423393958975553110
+    second: Lilith Kamiya SpriteSheet 64x64_62
+  - first:
+      213: 3909814442512711220
+    second: Lilith Kamiya SpriteSheet 64x64_63
+  - first:
+      213: -4195447271363735364
+    second: Lilith Kamiya SpriteSheet 64x64_64
+  - first:
+      213: -352128043743932023
+    second: Lilith Kamiya SpriteSheet 64x64_65
+  - first:
+      213: 1524301113707132611
+    second: Lilith Kamiya SpriteSheet 64x64_66
+  - first:
+      213: 8435213803890557297
+    second: Lilith Kamiya SpriteSheet 64x64_67
+  - first:
+      213: 3223409413598693639
+    second: Lilith Kamiya SpriteSheet 64x64_68
+  - first:
+      213: 1206359951401312275
+    second: Lilith Kamiya SpriteSheet 64x64_69
+  - first:
+      213: 5139637451562806289
+    second: Lilith Kamiya SpriteSheet 64x64_70
+  - first:
+      213: 6302540809967773186
+    second: Lilith Kamiya SpriteSheet 64x64_71
+  - first:
+      213: -4715303626493374082
+    second: Lilith Kamiya SpriteSheet 64x64_72
+  - first:
+      213: 4735806225973351751
+    second: Lilith Kamiya SpriteSheet 64x64_73
+  - first:
+      213: 5599684237546595186
+    second: Lilith Kamiya SpriteSheet 64x64_74
+  - first:
+      213: 1483466883697457407
+    second: Lilith Kamiya SpriteSheet 64x64_75
+  - first:
+      213: -7480887322507672655
+    second: Lilith Kamiya SpriteSheet 64x64_76
+  - first:
+      213: 6151013028780191392
+    second: Lilith Kamiya SpriteSheet 64x64_77
+  - first:
+      213: 3225463345722819528
+    second: Lilith Kamiya SpriteSheet 64x64_78
+  - first:
+      213: -7107543320856168461
+    second: Lilith Kamiya SpriteSheet 64x64_79
+  - first:
+      213: -3402843958546338379
+    second: Lilith Kamiya SpriteSheet 64x64_80
+  - first:
+      213: -6732658246347043137
+    second: Lilith Kamiya SpriteSheet 64x64_81
+  - first:
+      213: 2302194791826759670
+    second: Lilith Kamiya SpriteSheet 64x64_82
+  - first:
+      213: -6935066232110096712
+    second: Lilith Kamiya SpriteSheet 64x64_83
+  - first:
+      213: -3020246317328726074
+    second: Lilith Kamiya SpriteSheet 64x64_84
+  - first:
+      213: -4028009890904845066
+    second: Lilith Kamiya SpriteSheet 64x64_85
+  - first:
+      213: 5910975554087549434
+    second: Lilith Kamiya SpriteSheet 64x64_86
+  - first:
+      213: -4624245483497747633
+    second: Lilith Kamiya SpriteSheet 64x64_87
+  - first:
+      213: 4371918350922526985
+    second: Lilith Kamiya SpriteSheet 64x64_88
+  - first:
+      213: 1730365065415769105
+    second: Lilith Kamiya SpriteSheet 64x64_89
+  - first:
+      213: -1743878823973090932
+    second: Lilith Kamiya SpriteSheet 64x64_90
+  - first:
+      213: 2996106452106438987
+    second: Lilith Kamiya SpriteSheet 64x64_91
+  - first:
+      213: -8197590255316380472
+    second: Lilith Kamiya SpriteSheet 64x64_92
+  - first:
+      213: 7980252101308103909
+    second: Lilith Kamiya SpriteSheet 64x64_93
+  - first:
+      213: -5196779166365049259
+    second: Lilith Kamiya SpriteSheet 64x64_94
+  - first:
+      213: -8584970686774845768
+    second: Lilith Kamiya SpriteSheet 64x64_95
+  - first:
+      213: 2663238366683697375
+    second: Lilith Kamiya SpriteSheet 64x64_96
+  - first:
+      213: -2877190584146136691
+    second: Lilith Kamiya SpriteSheet 64x64_97
+  - first:
+      213: -3827193459715208175
+    second: Lilith Kamiya SpriteSheet 64x64_98
+  - first:
+      213: -6850562673128664856
+    second: Lilith Kamiya SpriteSheet 64x64_99
+  - first:
+      213: -482502521524698898
+    second: Lilith Kamiya SpriteSheet 64x64_100
+  - first:
+      213: 4919955776437368923
+    second: Lilith Kamiya SpriteSheet 64x64_101
+  - first:
+      213: 3103518857429987688
+    second: Lilith Kamiya SpriteSheet 64x64_102
+  - first:
+      213: -5117941467566177418
+    second: Lilith Kamiya SpriteSheet 64x64_103
+  - first:
+      213: -760512755300468769
+    second: Lilith Kamiya SpriteSheet 64x64_104
+  - first:
+      213: -5264710461678114328
+    second: Lilith Kamiya SpriteSheet 64x64_105
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c74ba223c17e400800000000000000
+      internalID: 353282097562287194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eb6700af4c46910800000000000000
+      internalID: 1829803926647914003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9791debb3798b8e30800000000000000
+      internalID: 4506846982281435513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb29c720d992ae80800000000000000
+      internalID: -8168797654796915787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d05a69868355210800000000000000
+      internalID: 1321024087558262022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9e3e81b640a3f30800000000000000
+      internalID: 4555958831064279484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368c37f5f43ad5b20800000000000000
+      internalID: 3124833277764159587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01f3791002733190800000000000000
+      internalID: -7983912369645162226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d748c42643c290800000000000000
+      internalID: -7871370599920577936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d45a83f6e2bd13c0800000000000000
+      internalID: -4387153756990843696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b26e714e1b4efa0800000000000000
+      internalID: -5772293229170513036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55514c0c043cd9a20800000000000000
+      internalID: 3070825203815945557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d0d9df142b445d0800000000000000
+      internalID: -3079140248717030042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e655c0bc4b0ab5600800000000000000
+      internalID: 458136485469377902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fe84e3190a217d0800000000000000
+      internalID: -2949118260298584222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d26c5151bce4c20800000000000000
+      internalID: 3192712477272321374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9f9c9c8048d9220800000000000000
+      internalID: 2494294941913184721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f4ca6f23375b920800000000000000
+      internalID: 3005434989063720713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08836066176ecada0800000000000000
+      internalID: -5932113234436409216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a1c2d7c382509f0800000000000000
+      internalID: -502951543118751188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf2961368b294160800000000000000
+      internalID: 7010182150333476793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376fcb13c6aee50b0800000000000000
+      internalID: -5737891124811598221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b183841e843c1a4c0800000000000000
+      internalID: -4277923453240592357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7f59ba22f749eb0800000000000000
+      internalID: -4714003123065718806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2022f772ad839aae0800000000000000
+      internalID: -1537635288153644542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492ef215f11d15950800000000000000
+      internalID: 6436155274925433492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c83ff56b4db37df0800000000000000
+      internalID: -183595028260636476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b68bcb12f261210800000000000000
+      internalID: 1303280964116966165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c591670d4fbfe30800000000000000
+      internalID: 4538490225677655151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea48e9a9108712c0800000000000000
+      internalID: -4460956058174076180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7734c07a0a1d2a00800000000000000
+      internalID: 733270946475161468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8ed0a8fbbc22000800000000000000
+      internalID: 9794172723521711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a176434e52e9698e0800000000000000
+      internalID: -1686987124824053990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191402a754dfcc4f0800000000000000
+      internalID: -806991758362656367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a8ada94ef044060800000000000000
+      internalID: 6936686800582380108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d324c472381f5d710800000000000000
+      internalID: 1717544378514031165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eac3ce0d9239a50800000000000000
+      internalID: 6526606262283316793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41a88fc465bebfd0800000000000000
+      internalID: -2324220913093402293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31bda00c21bc6dd0800000000000000
+      internalID: -2491421691294666436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba8da63a87e43800800000000000000
+      internalID: 591352031901223600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab771ee1fc76e60e0800000000000000
+      internalID: -2274766622501537862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8f4bd4225515c60800000000000000
+      internalID: 7805113235030735034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60163f226c90b00b0800000000000000
+      internalID: -5761500551695867642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc797634d0c61fbb0800000000000000
+      internalID: -4904019715008522293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489651f9e271ea2b0800000000000000
+      internalID: -5571490200005809788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f998ee952aca5d770800000000000000
+      internalID: 8634997673846278559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31db15b10a1df1e80800000000000000
+      internalID: -8205609510462440173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6be4cfd4d6a0770800000000000000
+      internalID: 8577788621993457321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6068859af866916e0800000000000000
+      internalID: -1866347803360852474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_49
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b84eb0f13d6fb60800000000000000
+      internalID: 7779637536626084709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e16d07bb52cf00e0800000000000000
+      internalID: -2301407185394114080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0f59c394d93b10800000000000000
+      internalID: 1961832843900292276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c27c1dcae105e950800000000000000
+      internalID: 6477585747017495234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75331fc8b62b4d4a0800000000000000
+      internalID: -6569429781430848681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c41dbbe3cf6f4370800000000000000
+      internalID: 8308982724786197698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9819a884f001750800000000000000
+      internalID: 6273531085163956715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d62253ca89cb3070800000000000000
+      internalID: 8087279153693468373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe2aa62c3183a850800000000000000
+      internalID: 6387090791888203518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a33dce5b31d470800000000000000
+      internalID: 8417574456887847170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68d5d33bf4c0d550800000000000000
+      internalID: 6183658871565178991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d08323822bdee830800000000000000
+      internalID: 4102457251856613589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd681eee662dc030800000000000000
+      internalID: 3516509141929061819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa14f64b8006e5ed0800000000000000
+      internalID: -2423393958975553110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e79a73583724630800000000000000
+      internalID: 3909814442512711220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb09b746fe6c6c5c0800000000000000
+      internalID: -4195447271363735364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981903de86dfc1bf0800000000000000
+      internalID: -352128043743932023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6fe3d69c7672510800000000000000
+      internalID: 1524301113707132611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_67
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1714e515346ef0570800000000000000
+      internalID: 8435213803890557297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709433788c9dbbc20800000000000000
+      internalID: 3223409413598693639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3106886fbf9ddb010800000000000000
+      internalID: 1206359951401312275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ce1bef709a35740800000000000000
+      internalID: 5139637451562806289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2062880797f177750800000000000000
+      internalID: 6302540809967773186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7150ce9550ef8eb0800000000000000
+      internalID: -4715303626493374082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7459930dba6f8b140800000000000000
+      internalID: 4735806225973351751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273a159452316bd40800000000000000
+      internalID: 5599684237546595186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8b7de5545569410800000000000000
+      internalID: 1483466883697457407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b305399d9c8e2890800000000000000
+      internalID: -7480887322507672655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae2e3d92c9cc5550800000000000000
+      internalID: 6151013028780191392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c30addd2d523cc20800000000000000
+      internalID: 3225463345722819528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7faaec10fec5d90800000000000000
+      internalID: -7107543320856168461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bde2c0e27ba6c0d0800000000000000
+      internalID: -3402843958546338379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe41600ffac092a0800000000000000
+      internalID: -6732658246347043137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff969237f903ff10800000000000000
+      internalID: 2302194791826759670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_83
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be55456102b1cf90800000000000000
+      internalID: -6935066232110096712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c78071f9fde516d0800000000000000
+      internalID: -3020246317328726074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_85
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f45bd47852a918c0800000000000000
+      internalID: -4028009890904845066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_86
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f761e2f0080250800000000000000
+      internalID: 5910975554087549434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_87
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b89e9ab3163dfb0800000000000000
+      internalID: -4624245483497747633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901bfb5a39c2cac30800000000000000
+      internalID: 4371918350922526985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c3adfebdd730810800000000000000
+      internalID: 1730365065415769105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8902c5f27f7cc7e0800000000000000
+      internalID: -1743878823973090932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b496f03b1fe449920800000000000000
+      internalID: 2996106452106438987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4d9a1781f4c3e80800000000000000
+      internalID: -8197590255316380472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecb884410d8fbe60800000000000000
+      internalID: 7980252101308103909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e19a4c1e451e7b0800000000000000
+      internalID: -5196779166365049259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bed4af35ae0cd880800000000000000
+      internalID: -8584970686774845768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd09f5e1f29b5f420800000000000000
+      internalID: 2663238366683697375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81fed0686a2218d0800000000000000
+      internalID: -2877190584146136691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c0af263d313eac0800000000000000
+      internalID: -3827193459715208175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e09d9c6b89ede0a0800000000000000
+      internalID: -6850562673128664856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee04a49538ecd49f0800000000000000
+      internalID: -482502521524698898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b583e2d26b1374440800000000000000
+      internalID: 4919955776437368923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_102
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86137da25f9e11b20800000000000000
+      internalID: 3103518857429987688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_103
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6730a7ce95b69f8b0800000000000000
+      internalID: -5117941467566177418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_104
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7792dadad1275f0800000000000000
+      internalID: -760512755300468769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith Kamiya SpriteSheet 64x64_105
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9a46e8abdffe6b0800000000000000
+      internalID: -5264710461678114328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c5efa08c7c84e2a41bf2635f8abf3840
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
