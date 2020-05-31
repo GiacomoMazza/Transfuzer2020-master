@@ -50,17 +50,14 @@ public class GM_EnemyBase : MonoBehaviour
         {
             case EnemyType.Big_Bin:
                 fl_ActivationRange = 10f;
-                Debug.Log("This is a big bin");
                 break;
 
             case EnemyType.Small_Bin:
                 fl_ActivationRange = 5f;
-                Debug.Log("This is a small bin");
                 break;
 
             case EnemyType.Big_TV:
                 fl_ActivationRange = 15f;
-                Debug.Log("This is a big tv");
                 break;
 
             default:
