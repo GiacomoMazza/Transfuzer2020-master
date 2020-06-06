@@ -12,7 +12,7 @@ public class GM_ItemDrag : MonoBehaviour
 
     private PointerEventData ped_Data;
 
-    //Alternates between them. Maybe have an Invoke to achieve the same effect with 1 click.
+    //Alternates between them. Maybe a for loop instead of foreach to achieve eveerything with 1 click and the use of a bool.
     private bool bl_ItemPicked = false;
 
     [Tooltip("The EventSystem in the hierarchy.")]
@@ -21,12 +21,6 @@ public class GM_ItemDrag : MonoBehaviour
 
     //result of the graphics raycast
     private GameObject go_Result;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
 
     private void Update()
     {
@@ -49,25 +43,33 @@ public class GM_ItemDrag : MonoBehaviour
 
             foreach(RaycastResult result in results)
             {
-                //If the object hit is the item, and if there are no objects being carried atm, pick the item up
+                //If the object hit is the item, and if there are no objects being carried atm, pick the item up and unchild.
                 if (bl_ItemPicked)
                 {
                     if (result.gameObject.layer == LayerMask.NameToLayer("Item"))
                     {
                         if (go_Result == null)
                         {
-                            go_Result = result.gameObject; 
+                            go_Result = result.gameObject;
+                            go_Result.transform.parent = gr_Raycaster.gameObject.transform;
                         }
                     }
                 }
 
-                //If it hits the slot, snap into position and nullify.
+                //If it hits the slot, snap into position, set parent (given the result.gameobject has none), and nullify.
                 if (!bl_ItemPicked)
                 {
 		            if (result.gameObject.layer == LayerMask.NameToLayer("Slot"))
                     {
-                        go_Result.transform.position = result.gameObject.transform.position;
-                        go_Result = null;
+                        if (result.gameObject.transform.childCount == 0)
+                        {
+                            if (go_Result != null)
+                            {
+                                go_Result.transform.position = result.gameObject.transform.position;
+                                go_Result.transform.parent = result.gameObject.transform;
+                                go_Result = null;
+                            }
+                        }
                     } 
                 }
             }
