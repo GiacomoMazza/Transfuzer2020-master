@@ -2294,6 +2294,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1322537537}
+  bl_IsDash: 1
+  fl_InvSec: 1
+  fl_DashSpeed: 100
+  DashKey: 32
 --- !u!212 &1322537539
 SpriteRenderer:
   m_ObjectHideFlags: 0

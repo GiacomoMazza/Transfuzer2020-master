@@ -12,7 +12,7 @@ public class Movement : MonoBehaviour
 
     [Tooltip("Is the dash available for this character?")]
     [SerializeField]
-    private bool bl_IsDash = true;
+    private bool bl_IsDash = false;
 
     [Tooltip("The seconds of invulnerability given by the dash.")]
     [SerializeField]
@@ -35,7 +35,13 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //TODO: CHANGE THIS TO BE TRUE ONLY WHEN WE AREN'T DASHING
+        if (Input.GetKeyDown(DashKey))
+        {
+            if (!bl_IsDash)
+            {
+                StartCoroutine("Invulnerable");
+            }
+        }
 
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"), 0.0f);
 
@@ -43,7 +49,15 @@ public class Movement : MonoBehaviour
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Magnitude", movement.magnitude);
 
-        transform.position = transform.position + movement * Time.deltaTime;
+        if (!bl_IsDash)
+        {
+            transform.position = transform.position + movement * Time.deltaTime;
+        }
+
+        else if (bl_IsDash)
+        {
+            transform.position = transform.position + movement * fl_DashSpeed * Time.deltaTime;
+        }
 
         //TODO: SET FLOAT AS ABOVE AND MAKE NEW BLEND TREE FOR ROLLING. MULTIPLY POSITION TIMES FL_DASHSPEED.
 
@@ -54,26 +68,18 @@ public class Movement : MonoBehaviour
         else if (movement.x > 0)
         {
             gameObject.GetComponent<SpriteRenderer>().flipX = false;
-        }
-
-        if (Input.GetKeyDown(DashKey))
-        {
-            if (bl_IsDash)
-            {
-                StartCoroutine("Invulnerable");             
-            }
-        }
+        } 
     }
 
     private IEnumerator Invulnerable()
     {
-        bl_IsDash = false;
+        bl_IsDash = true;
         //TODO: CHANGE STATE TO ROLLING IN ANIMATOR
         //TODO: MAKE HEALTH STATIC
         yield return new WaitForSeconds(fl_InvSec);
         //TODO: UNDO INVULNERABILITY
         //TODO: CHANGE STATE TO RUNNING IN ANIMATOR
-        bl_IsDash = true;
+        bl_IsDash = false;
         yield return null;
     }
 }
