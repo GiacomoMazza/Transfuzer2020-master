@@ -2294,9 +2294,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1322537537}
-  bl_IsDash: 1
-  fl_InvSec: 1
-  fl_DashSpeed: 100
+  sr_Renderer: {fileID: 1322537539}
+  bl_DashAbility: 1
+  fl_InvSec: 0.5
+  fl_DashSpeed: 1.8
+  fl_CooldownDash: 5
   DashKey: 32
 --- !u!212 &1322537539
 SpriteRenderer:
@@ -2611,7 +2613,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 2.5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
